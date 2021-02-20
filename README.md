@@ -7,7 +7,7 @@ Due to COVID-19, in-person robotics meetings and thus competitions have become l
 **Materials:**  
 - Computer with internet connection
 - GitHub account
-- Elegoo’s Super Starter Kit Uno R3 Project ($36.99 on Amazon)
+- Elegoo’s Super Starter Kit Uno R3 Project ([$36.99 on Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/))
 
 
 [TO-DO 1]  
