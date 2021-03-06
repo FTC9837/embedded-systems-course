@@ -7,7 +7,7 @@ Due to COVID-19, in-person robotics meetings and thus competitions have become l
 **Materials:**  
 - Computer with internet connection
 - GitHub account
-- Elegoo’s Super Starter Kit Uno R3 Project ($36.99 on Amazon)
+- Elegoo’s Super Starter Kit Uno R3 Project ([$36.99 on Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/))
 
 
 [TO-DO 1]  
@@ -15,10 +15,25 @@ Practice pulling new code to your fork that has been uploaded to the main reposi
 
 ## Log
 
-**Workshop Topic #0A: GitHub Set-up and Introduction to C**
-Date: 1/29/2021  
+**Workshop Topic #0A: Introduction to Arduino and Components**  
+Date: 2/5/2021  
+Type: Conceptual  
+- Introduce curriculum, learning goals, and embedded systems applications
+- Introduce kit and accompanying components  
+
+
+**Workshop Topic #0B: GitHub Setup and Introduction to C++**  
+Date: 2/19/2021  
 Type: Conceptual/Hands-on with Programming  
-Corresponding Topics: 2019 Lecture Series  
-- Set up GitHub and shared repository with starter code/other resources
-- Introduction to the Arduino IDE and the C programming language
-- A few short programming exercises
+- Setup GitHub and shared repository with starter code/other resources
+- Introduction to C++ programming  
+
+
+**Workshop Topic #1: Blinking LEDs**  
+Date: 2/26/2021  
+Type: Hands-on with Hardware and Programming
+Corresponding Topics: 2.1 LED
+- Introduce circuits, proper circuit design, and circuit elements
+- Learn the Arduino IDE
+- Learn to send digital outputs
+
