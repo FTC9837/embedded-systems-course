@@ -31,9 +31,17 @@ Type: Conceptual/Hands-on with Programming
 
 **Workshop Topic #1: Blinking LEDs**  
 Date: 2/26/2021  
-Type: Hands-on with Hardware and Programming
+Type: Hands-on with Hardware and Programming  
 Corresponding Topics: 2.1 LED
 - Introduce circuits, proper circuit design, and circuit elements
 - Learn the Arduino IDE
 - Learn to send digital outputs
+
+
+**Workshop Topic #2: Digital Inputs: Buttons**  
+Date: 3/12/2021  
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2.3 Digital Inputs  
+- Introduce digital inputs such as buttons
+- Use such inputs in a circuit
 
