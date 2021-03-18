@@ -37,22 +37,6 @@ bool checkpassword(){
   }
   return true;
 }
-//This version of the checkpassword code is written so that the default state is "false" and all values of the passcode must match for it to return "true".
-//It is simply here as an example of another way to write the checkpassword code. 
-bool checkpassword2(){
-  int checkstates = 0;
-  for ( int i = 0; i < SIZE; i++){
-    if (states[i] == passcode_arr[i] ){
-      checkstates ++;
-    }
-  }
-  if(checkstates == SIZE){
-    return true;  
-  }
-  else{
-    return false; 
-  }
-}
 
 void loop() {
   // check if inputs are pushed -- if so, add to the states array
