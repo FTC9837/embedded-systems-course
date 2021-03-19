@@ -5,7 +5,8 @@ int buttons[3] = {8,9,10};
 
 // set hardcoded password
 int passcode_arr[]= {0,1,2,0,0,0};
-const int SIZE = sizeof(passcode_arr) / sizeof(int); // store size of password array
+// store size of password array
+const int SIZE = sizeof(passcode_arr) / sizeof(int); 
 
 // store user inputs
 int states[SIZE];
@@ -28,7 +29,9 @@ void reset_arr(){
     states[i] = 999;
   }
 }
-//Check the password. If ANY of the values in the states array do not match the ones in the passcode array, return "false". Otherwise, return "true".
+//Check the password. If ANY of the values in the states array 
+//do not match the ones in the passcode array, return "false". 
+//Otherwise, return "true".
 bool checkpassword(){
   for ( int i = 0; i < SIZE; i++){
     if (states[i] != passcode_arr[i] ){
@@ -59,9 +62,10 @@ void loop() {
     delay(250);
   }
 
-  // if the user gets to the last index state (correct length of password), check if the password matches.
+  // if the user gets to the last index state (correct length of password), 
+  //check if the password matches.
   if (index_state == SIZE ){
-    if (checkpassword2()){
+    if (checkpassword()){
       digitalWrite(green_led_pin, HIGH);
       delay(1500);
       digitalWrite(green_led_pin, LOW);
