@@ -54,3 +54,17 @@ Corresponding Topics: 2.3 Digital Inputs
 - Introduce digital inputs such as buttons
 - Use such inputs in a circuit
 
+**Workshop Topic #3: Liquid-Crystal Displays**  
+Date: 4/2/2021  
+[Link to Video](https://youtu.be/455-oBZfOAk)
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2019 Lecture Series, 2.13 LCD  
+- Learn how to use a Liquid-Crystal Display (LCD) to print text   
+- Build on button passcode project, use LCD to display instructions and input  
+
+**Workshop Topic #4: Servo Motors**  
+Date: 6/4/2021  
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2.8 Servos  
+- Introduce the servo Motor and learn how to control it  
+- Use buttons to control a waving servo apparatus
