@@ -1,7 +1,8 @@
 # embedded-systems-course
 
-Program Director: Stefan Prestrelski  
-Teaching Assistants: Sarah Luo, Samantha Prestrelski  
+Curriculum Director: Stefan Prestrelski  
+Teaching Assistants: Sarah Luo, Amrutha Challa
+Program Director: Samantha Prestrelski  
 
 Curriculum materials can be found at http://ccagirlswhocode.weebly.com/embeddedsys.html.  
 
@@ -64,7 +65,34 @@ Corresponding Topics: 2019 Lecture Series, 2.13 LCD
 
 **Workshop Topic #4: Servo Motors**  
 Date: 6/4/2021  
+[Link to Video](https://youtu.be/GA3vmnMwEpQ)  
 Type: Hands-on with Hardware and Programming  
 Corresponding Topics: 2.8 Servos  
 - Introduce the servo Motor and learn how to control it  
-- Use buttons to control a waving servo apparatus
+- Use buttons to control a waving servo apparatus  
+
+**Workshop Topic #5: Electronics Theory and Review**  
+Date: 6/25/2021  
+[Link to Video](https://youtu.be/m4cZTuk44m0)
+Type: Conceptual    
+Corresponding Topics: 1.2 First Look Arduino  
+- Learn about the theory behind Direct Current circuits and circuit elements  
+- Review the components we have used in previous workshops, like the LED light, Button, LCD Screen, and Servo Motor  
+
+**Workshop Topic #6: DC Motors and Stepper Motors**  
+Date: 7/2/2021  
+[Link to Video](https://youtu.be/455-oBZfOAk)  
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2.14 DC Motors, 3.7 Controlling a Stepper Motor with Remote  
+- Introduce DC Motors and Stepper Motors and learn how to control them  
+- Create a motor-controlled fan  
+
+**Workshop Topic #7: Analog Inputs and Outputs**  
+Date: 7/9/2021  
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2.2 RGB LED, 3.3 The Serial Monitor 
+- Introduce analog inputs and outputs and what distinguishes them from digital ones     
+- Analog Inputs/Outputs Projects
+  - Randomized RGB LED: Changes to a random color every second
+  - Potentiometer to light up a row of LEDs 
+  - Color fading using a potentiometer
