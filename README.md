@@ -57,7 +57,7 @@ Corresponding Topics: 2.3 Digital Inputs
 
 **Workshop Topic #3: Liquid-Crystal Displays**  
 Date: 4/2/2021  
-[Link to Video](https://youtu.be/455-oBZfOAk)
+[Link to Video](https://youtu.be/455-oBZfOAk)  
 Type: Hands-on with Hardware and Programming  
 Corresponding Topics: 2019 Lecture Series, 2.13 LCD  
 - Learn how to use a Liquid-Crystal Display (LCD) to print text   
@@ -73,7 +73,7 @@ Corresponding Topics: 2.8 Servos
 
 **Workshop Topic #5: Electronics Theory and Review**  
 Date: 6/25/2021  
-[Link to Video](https://youtu.be/m4cZTuk44m0)
+[Link to Video](https://youtu.be/m4cZTuk44m0)  
 Type: Conceptual    
 Corresponding Topics: 1.2 First Look Arduino  
 - Learn about the theory behind Direct Current circuits and circuit elements  
@@ -89,6 +89,7 @@ Corresponding Topics: 2.14 DC Motors, 3.7 Controlling a Stepper Motor with Remot
 
 **Workshop Topic #7: Analog Inputs and Outputs**  
 Date: 7/9/2021  
+[Link to Video](https://www.youtube.com/watch?v=BiRoSuisROU)  
 Type: Hands-on with Hardware and Programming  
 Corresponding Topics: 2.2 RGB LED, 3.3 The Serial Monitor 
 - Introduce analog inputs and outputs and what distinguishes them from digital ones     
@@ -96,3 +97,10 @@ Corresponding Topics: 2.2 RGB LED, 3.3 The Serial Monitor
   - Randomized RGB LED: Changes to a random color every second
   - Potentiometer to light up a row of LEDs 
   - Color fading using a potentiometer
+
+**Workshop Topic #8: Photoresistors**  
+Date: 7/16/2021  
+Type: Hands-on with Hardware and Programming  
+Corresponding Topics: 2.4 Serial Monitor, 2.5 Active Buzzer, 3.4 Photocell/Photoresistor  
+- Learn about photoresistors and use them to create a box that will play music when opened  
+- Combine skills and parts used in previous projects
