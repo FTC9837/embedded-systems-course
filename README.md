@@ -1,7 +1,7 @@
 # embedded-systems-course
 
 Curriculum Director: Stefan Prestrelski  
-Teaching Assistants: Sarah Luo, Amrutha Challa
+Teaching Assistants: Sarah Luo, Amrutha Challa  
 Program Director: Samantha Prestrelski  
 
 Curriculum materials can be found at http://ccagirlswhocode.weebly.com/embeddedsys.html.  
@@ -104,3 +104,9 @@ Type: Hands-on with Hardware and Programming
 Corresponding Topics: 2.4 Serial Monitor, 2.5 Active Buzzer, 3.4 Photocell/Photoresistor  
 - Learn about photoresistors and use them to create a box that will play music when opened  
 - Combine skills and parts used in previous projects
+
+**Final Project Requirements**  
+Office Hours: 7/23/2021  
+Presentation Date: 7/30/2021  
+[Final Project Requirements](https://docs.google.com/presentation/d/1BMp_6IYsXAYUefb6kpMliaruKCIiIMnS15An_0GYxWA/edit?usp=sharing)  
+[Final Project Presentation Template](https://docs.google.com/presentation/d/1mue5Kf9cQVm8a_LPtSB3Te2m9-VOlRtO_rwtXDO3ft4/edit?usp=sharing)  
