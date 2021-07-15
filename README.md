@@ -110,3 +110,4 @@ Office Hours: 7/23/2021
 Presentation Date: 7/30/2021  
 [Final Project Requirements](https://docs.google.com/presentation/d/1BMp_6IYsXAYUefb6kpMliaruKCIiIMnS15An_0GYxWA/edit?usp=sharing)  
 [Final Project Presentation Template](https://docs.google.com/presentation/d/1mue5Kf9cQVm8a_LPtSB3Te2m9-VOlRtO_rwtXDO3ft4/edit?usp=sharing)  
+[How to Upload Your Final Project](https://youtu.be/MjPzVdxFeYM)  
