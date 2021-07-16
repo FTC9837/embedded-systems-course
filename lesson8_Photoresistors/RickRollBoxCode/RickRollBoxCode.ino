@@ -131,7 +131,7 @@ void setup()
   a = 4;
   b = 0;
   c = 0;
-  threshold = 150 //analogRead(sensor) + 250; // sets the light threshhold 
+  threshold = 150; //analogRead(sensor) + 250; // sets the light threshhold 
 }
 
 void loop()
